@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - href: Civic_problem.Rmd
-        text: "my article"
+        text: "My Article"
       - about.qmd
 
 format:

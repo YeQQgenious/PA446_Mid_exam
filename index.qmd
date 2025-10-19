@@ -4,8 +4,4 @@ title: "PA446_Mid_exam"
 
 This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I will put the content answers in the top navbar named "My Article".
