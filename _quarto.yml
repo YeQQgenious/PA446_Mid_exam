@@ -12,8 +12,11 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - sandstone
       - brand
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#0013d5"
     css: styles.css
     toc: true
 
